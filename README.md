@@ -11,3 +11,5 @@ While creating the word2vec model it has been observed that more the text more t
 https://machinelearningmastery.com/develop-word-embeddings-python-gensim/
 
 https://youtu.be/_rwNTY5Mn40
+
+Future scope is to visualise the word embeddings and explore other libraries
